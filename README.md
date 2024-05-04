@@ -15,7 +15,7 @@ https://github.com/Ileriayo/markdown-badges
 al encontrar la red que queremos, encerramos el codigo entre corchetes y seguido entre parentesis colocamos el link de la pagina
 -->
 
-[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/gonzalo-castellano-264667242/)
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="180" height="50"/>](https://www.linkedin.com/in/gonzalo-castellano-264667242/)
 
 
 <!--
