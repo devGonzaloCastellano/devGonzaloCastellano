@@ -2,9 +2,6 @@
 <!--https://giphy.com/stickers/ Para cambiar las imagenes-->
 #  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHcyd3Q5djNoOXNheGV2YXFpbGtvdDFweGRmbmVoaDdiaHg4ZHZhMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>  Sean Bienvenid@5!" <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif?cid=790b7611xw2wt9v3h9saxevaqilkot1pxdfnehh7bhx8dva2&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width="100"/>
   
-<!--https://leviarista.github.io/github-profile-header-generator/
-
-Generador de Encabezados-->  
 ![Header](./github-header-image.png)
 
 <!-- Los # determinan el tamaño del texto -->
