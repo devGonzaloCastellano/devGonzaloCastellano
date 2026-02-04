@@ -1,8 +1,8 @@
 # 👋 Hola, soy Gonzalo Castellano
 
-🎯 Desarrollador **Backend Java**, enfocado en el aprendizaje continuo y la construcción de aplicaciones funcionales, priorizando la lógica, la persistencia de datos y las buenas prácticas.
+🎯 Desarrollador Backend Java, enfocado en la construcción de aplicaciones funcionales y en el aprendizaje continuo, priorizando la lógica de negocio, la persistencia de datos y las buenas prácticas.
 
-Actualmente me encuentro fortaleciendo mis conocimientos en **Java y Spring Boot**, con el objetivo de incorporarme profesionalmente al mundo del desarrollo backend.
+Actualmente desarrollo APIs REST con Java y Spring Boot, aplicando conceptos de arquitectura backend en proyectos propios con enfoque profesional.
 
 ---
 
@@ -11,6 +11,12 @@ Actualmente me encuentro fortaleciendo mis conocimientos en **Java y Spring Boot
 #### Lenguajes
 - <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white"></a>
 - <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=database&logoColor=white">
+
+#### Backend
+- <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white">
+- <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white">
+- <img src="https://img.shields.io/badge/JPA-59666C?logo=hibernate&logoColor=white">
+- <img src="https://img.shields.io/badge/JDBC-007396?logo=java&logoColor=white">
 
 
 #### Bases de datos
@@ -33,30 +39,33 @@ Actualmente me encuentro fortaleciendo mis conocimientos en **Java y Spring Boot
 
 ## 📂 Proyectos destacados
 
-- 🧮 **Calculadora Vacacional**  
-  Aplicación de escritorio en Java para el cálculo de vacaciones, enfocada en lógica de negocio y persistencia básica.  
-  👉 https://github.com/devGonzaloCastellano/calculadora-vacacional-java
-
-- 🎲 **Sorteo**  
-  Aplicación Java que procesa archivos Excel y realiza sorteos automáticos.  
-  👉 https://github.com/devGonzaloCastellano/sorteo-java
+- 🌐 **API Estética (Spring Boot)**
+  API REST desarrollada en Java con Spring Boot para la gestión de turnos y servicios.
+  Incluye arquitectura por capas, persistencia con JPA/Hibernate y manejo de entidades.
+  👉 https://github.com/devGonzaloCastellano/api-estetica
 
 - 🗄️ **Data System**  
   Sistema de gestión de datos desarrollado en Java utilizando SQL directo y JDBC.  
   👉 https://github.com/devGonzaloCastellano/data-system-java
+
+- 🧮 **Calculadora Vacacional**  
+  Aplicación de escritorio en Java para el cálculo de vacaciones, enfocada en lógica de negocio y persistencia básica.  
+  👉 https://github.com/devGonzaloCastellano/calculadora-vacacional-java
+
 
 ---
 
 ## 📚 En aprendizaje
 
 ### Tecnologías
-- <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white">
-- <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white">
+
 - <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+- <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white">
 
 ### Conceptos
 - APIs REST
 - Arquitectura backend
+- Buenas prácticas de desarrollo
 
 ---
 
