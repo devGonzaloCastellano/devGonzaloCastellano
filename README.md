@@ -39,14 +39,16 @@ Actualmente desarrollo APIs REST con Java y Spring Boot, aplicando conceptos de 
 
 ## 📂 Proyectos destacados
 
-- 🌐 **API Estética (Spring Boot)**
+- 🌐 **API Estética (Spring Boot)**  
   API REST desarrollada en Java con Spring Boot para la gestión de turnos y servicios.
-  Incluye arquitectura por capas, persistencia con JPA/Hibernate y manejo de entidades.
+  Incluye arquitectura por capas, persistencia con JPA/Hibernate y manejo de entidades.  
   👉 https://github.com/devGonzaloCastellano/api-estetica
+
 
 - 🗄️ **Data System**  
   Sistema de gestión de datos desarrollado en Java utilizando SQL directo y JDBC.  
   👉 https://github.com/devGonzaloCastellano/data-system-java
+
 
 - 🧮 **Calculadora Vacacional**  
   Aplicación de escritorio en Java para el cálculo de vacaciones, enfocada en lógica de negocio y persistencia básica.  
